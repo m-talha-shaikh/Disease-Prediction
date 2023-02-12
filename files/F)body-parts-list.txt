@@ -1,0 +1,53 @@
+11001-Infant Problems
+11002-Hair or Scalp
+11003-Eyes
+11004-Ear
+11005-Nose or Nasal or Sinus
+11006-Mouth
+11007-Tongue
+11008-Gums
+11009-Throat
+11010-Face
+11011-Lips
+11012-Neck
+11013-Skin
+11014-Chest
+11015-Breathing
+11016-Back
+11017-Arm
+11018-Hand or finger
+11019-Shoulder
+11020-Elbow
+11021-Wrist
+11022-Leg
+11023-Joint or Knee or Bones
+11024-Foot or Toe
+11025-Ankle
+11026-Heart
+11027-Flu Symptoms
+11028-Cough
+11029-Gastro
+11030-Hip or Anus
+11031-Urination
+11032-Penis
+11033-Scrotum or testes
+11034-Orgasm
+11035-Abdomen
+11036-Stool
+11037-Muscle
+11038-Weight
+11039-Pelvic or Groin
+11040-Bladder or Kidney
+11041-Breast
+11042-Pregnancy
+11043-Vagina
+11044-Menstruation
+11045-Vulva or Uterine
+11046-Sleep
+11047-Movements
+11048-Pain
+11049-Feeling or Sensation
+11050-Emotions
+11051-Social or Behaviour
+11052-Speech
+11053-Growth

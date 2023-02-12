@@ -1,0 +1,796 @@
+12001-Anemia of chronic disease
+12002-Dysthymic disorder
+12003-Scarlet fever
+12004-Hypertensive heart disease
+12005-Drug abuse (barbiturates)
+12006-Polycystic ovarian syndrome (PCOS)
+12007-Encephalitis
+12008-Cyst of the eyelid
+12009-Balanitis
+12010-Foreign body in the throat
+12011-Drug abuse (cocaine)
+12012-Optic neuritis
+12013-Alcohol withdrawal
+12014-Premature atrial contractions (PACs)
+12015-Hemiplegia
+12016-Hammer toe
+12017-Open wound of the cheek
+12018-Joint effusion
+12019-Open wound of the knee
+12020-Meningioma
+12021-Brain cancer
+12022-Placental abruption
+12023-Seasonal allergies (hay fever)
+12024-Lung cancer
+12025-Eye alignment disorder
+12026-Headache after lumbar puncture
+12027-Pyloric stenosis
+12028-Salivary gland disorder
+12029-Osteochondrosis
+12030-Injury to the knee
+12031-Metabolic disorder
+12032-Vaginitis
+12033-Sick sinus syndrome
+12034-Tinnitus of unknown cause
+12035-Glaucoma
+12036-Eating disorder
+12037-Transient ischemic attack
+12038-Pyelonephritis
+12039-Rotator cuff injury
+12040-Chronic pain disorder
+12041-Problem during pregnancy
+12042-Liver cancer
+12043-Atelectasis
+12044-Injury to the hand
+12045-Choledocholithiasis
+12046-Injury to the hip
+12047-Cirrhosis
+12048-Thoracic aortic aneurysm
+12049-Subdural hemorrhage
+12050-Congenital rubella
+12051-Diabetic retinopathy
+12052-Fibromyalgia
+12053-Ischemia of the bowel
+12054-Fetal alcohol syndrome
+12055-Peritonitis
+12056-Injury to the abdomen
+12057-Acute pancreatitis
+12058-Thrombophlebitis
+12059-Asthma
+12060-Foreign body in the vagina
+12061-Restless leg syndrome
+12062-Emphysema
+12063-Cysticercosis
+12064-Induced abortion
+12065-Teething syndrome
+12066-Infectious gastroenteritis
+12067-Acute sinusitis
+12068-Von Hippel Lindau disease
+12069-Substance related mental disorder
+12070-Postpartum depression
+12071-Coronary atherosclerosis
+12072-Spondylitis
+12073-Pituitary adenoma
+12074-Uterine fibroids
+12075-Idiopathic nonmenstrual bleeding
+12076-Chalazion
+12077-Ovarian torsion
+12078-Retinopathy due to high blood pressure
+12079-Vaginal yeast infection
+12080-Mastoiditis
+12081-Lung contusion
+12082-Hypertrophic obstructive cardiomyopathy (HOCM)
+12083-Ingrown toe nail
+12084-Pulmonary eosinophilia
+12085-Open wound of the hip
+12086-Corneal disorder
+12087-Foreign body in the gastrointestinal tract
+12088-Endophthalmitis
+12089-Intestinal malabsorption
+12090-Lead poisoning
+12091-Viral warts
+12092-Hyperhidrosis
+12093-Stroke
+12094-Pilonidal cyst
+12095-Crushing injury
+12096-Normal pressure hydrocephalus
+12097-Alopecia
+12098-Hashimoto thyroiditis
+12099-Flat feet
+12100-Nonalcoholic liver disease (NASH)
+12101-Hemarthrosis
+12102-Pelvic organ prolapse
+12103-Fracture of the arm
+12104-Coagulation (bleeding) disorder
+12105-Panic disorder
+12106-Vocal cord polyp
+12107-Turner syndrome
+12108-Cryptorchidism
+12109-Poisoning due to ethylene glycol
+12110-Atrophic vaginitis
+12111-Fracture of the hand
+12112-Cellulitis or abscess of mouth
+12113-Food allergy
+12114-Labyrinthitis
+12115-Anxiety
+12116-Impulse control disorder
+12117-Stenosis of the tear duct
+12118-Abscess of nose
+12119-Omphalitis
+12120-Leukemia
+12121-Bell palsy
+12122-Conjunctivitis due to allergy
+12123-Drug reaction
+12124-Adrenal cancer
+12125-Myopia
+12126-Osteoarthritis
+12127-Thyroid disease
+12128-Pharyngitis
+12129-Chronic rheumatic fever
+12130-Hypocalcemia
+12131-Macular degeneration
+12132-Pneumonia
+12133-Cold sore
+12134-Premature ventricular contractions (PVCs)
+12135-Chancroid
+12136-Testicular cancer
+12137-Hydrocephalus
+12138-Breast cancer
+12139-Anemia due to malignancy
+12140-Esophageal varices
+12141-Endometrial cancer
+12142-Cystic Fibrosis
+12143-Intertrigo (skin condition)
+12144-Parathyroid adenoma
+12145-Glucocorticoid deficiency
+12146-Temporomandibular joint disorder
+12147-Wilson disease
+12148-Vesicoureteral reflux
+12149-Vitamin A deficiency
+12150-Gonorrhea
+12151-Fracture of the rib
+12152-Ependymoma
+12153-Hepatitis due to a toxin
+12154-Vaginal cyst
+12155-Open wound of the shoulder
+12156-Ectopic pregnancy
+12157-Chronic knee pain
+12158-Pinguecula
+12159-Hypergammaglobulinemia
+12160-Alcohol abuse
+12161-Carpal tunnel syndrome
+12162-Pituitary disorder
+12163-Kidney stone
+12164-Autism
+12165-Cat scratch disease
+12166-Chronic glaucoma
+12167-Retinal detachment
+12168-Aplastic anemia
+12169-Overflow incontinence
+12170-Rabies
+12171-Hemolytic anemia
+12172-Lateral epicondylitis (tennis elbow)
+12173-Open wound of the eye
+12174-Syphilis
+12175-Diabetic kidney disease
+12176-Nose disorder
+12177-Drug withdrawal
+12178-Dental caries
+12179-Hypercholesterolemia
+12180-Fracture of the patella
+12181-Kidney failure
+12182-Fracture of the neck
+12183-Muscle spasm
+12184-Hemophilia
+12185-Hyperosmotic hyperketotic state
+12186-Peritonsillar abscess
+12187-Gastroparesis
+12188-Itching of unknown cause
+12189-Fat embolism
+12190-Polycythemia vera
+12191-Thrombocytopenia
+12192-Head and neck cancer
+12193-Pseudohypoparathyroidism
+12194-Goiter
+12195-Urge incontinence
+12196-Edward syndrome
+12197-Open wound of the arm
+12198-Muscular dystrophy
+12199-Mittelschmerz
+12200-Corneal abrasion
+12201-Intracranial hemorrhage
+12202-Hyperkalemia
+12203-Cornea infection
+12204-Abscess of the lung
+12205-Dengue fever
+12206-Chronic sinusitis
+12207-Cholesteatoma
+12208-Volvulus
+12209-Injury to the finger
+12210-Poisoning due to analgesics
+12211-Atrial fibrillation
+12212-Pinworm infection
+12213-Urethral valves
+12214-Open wound of the neck
+12215-Achalasia
+12216-Conductive hearing loss
+12217-Abdominal hernia
+12218-Cerebral palsy
+12219-Marijuana abuse
+12220-Cryptococcosis
+12221-Obesity
+12222-Indigestion
+12223-Bursitis
+12224-Esophageal cancer
+12225-Pulmonary congestion
+12226-Juvenile rheumatoid arthritis
+12227-Actinic keratosis
+12228-Acute otitis media
+12229-Astigmatism
+12230-Tuberous sclerosis
+12231-Empyema
+12232-Presbyacusis
+12233-Neonatal jaundice
+12234-Chronic obstructive pulmonary disease (COPD)
+12235-Dislocation of the elbow
+12236-Spondylosis
+12237-Herpangina
+12238-Injury to the shoulder
+12239-Poisoning due to antidepressants
+12240-Infection of open wound
+12241-Deep vein thrombosis (DVT)
+12242-Protein deficiency
+12243-Myoclonus
+12244-Bone spur of the calcaneous
+12245-Von Willebrand disease
+12246-Open wound of the back
+12247-Heart block
+12248-Colonic polyp
+12249-Hypospadias
+12250-Magnesium deficiency
+12251-Female infertility of unknown cause
+12252-Pericarditis
+12253-Attention deficit hyperactivity disorder (ADHD)
+12254-Neuromyelitis optica
+12255-Pulmonic valve disease
+12256-Tietze syndrome
+12257-Cranial nerve palsy
+12258-Injury to the arm
+12259-Conversion disorder
+12260-Complex regional pain syndrome
+12261-Otosclerosis
+12262-Injury to the trunk
+12263-Hypothyroidism
+12264-Primary insomnia
+12265-Lice
+12266-Vitamin B12 deficiency
+12267-Diabetes
+12268-Vulvodynia
+12269-Endometriosis
+12270-Vasculitis
+12271-Concussion
+12272-Oral leukoplakia
+12273-Chronic kidney disease
+12274-Bladder disorder
+12275-Chorioretinitis
+12276-Priapism
+12277-Myositis
+12278-Mononucleosis
+12279-Neuralgia
+12280-Polycystic kidney disease
+12281-Bipolar disorder
+12282-Amyloidosis
+12283-Chronic inflammatory demyelinating polyneuropathy (CIDP)
+12284-Gastroesophageal reflux disease (GERD)
+12285-Vitreous hemorrhage
+12286-Poisoning due to antimicrobial drugs
+12287-Open wound of the mouth
+12288-Scleroderma
+12289-Myasthenia gravis
+12290-Hypoglycemia
+12291-Idiopathic absence of menstruation
+12292-Dislocation of the ankle
+12293-Carbon monoxide poisoning
+12294-Panic attack
+12295-Plantar fasciitis
+12296-Hyperopia
+12297-Poisoning due to sedatives
+12298-Pemphigus
+12299-Peyronie disease
+12300-Hiatal hernia
+12301-Extrapyramidal effect of drugs
+12302-Meniere disease
+12303-Anal fissure
+12304-Allergy
+12305-Chronic otitis media
+12306-Fracture of the finger
+12307-Hirschsprung disease
+12308-Polymyalgia rheumatica
+12309-Lymphedema
+12310-Bladder cancer
+12311-Acute bronchospasm
+12312-Acute glaucoma
+12313-Open wound of the chest
+12314-Dislocation of the patella
+12315-Sciatica
+12316-Hypercalcemia
+12317-Stress incontinence
+12318-Varicose veins
+12319-Benign kidney cyst
+12320-Hydrocele of the testicle
+12321-Degenerative disc disease
+12322-Hirsutism
+12323-Dislocation of the foot
+12324-Hydronephrosis
+12325-Diverticulosis
+12326-Pain after an operation
+12327-Huntington disease
+12328-West Nile virus
+12329-Lymphoma
+12330-Dermatitis due to sun exposure
+12331-Anemia due to chronic kidney disease
+12332-Injury to internal organ
+12333-Scleritis
+12334-Pterygium
+12335-Fungal infection of the skin
+12336-Insulin overdose
+12337-Syndrome of inappropriate secretion of ADH (SIADH)
+12338-Foreign body in the ear
+12339-Premenstrual tension syndrome
+12340-Orbital cellulitis
+12341-Injury to the leg
+12342-Hepatic encephalopathy
+12343-Bone cancer
+12344-Leishmaniasis
+12345-Chagas disease
+12346-Syringomyelia
+12347-Pulmonary fibrosis
+12348-Mitral valve disease
+12349-Parkinson disease
+12350-Gout
+12351-Otitis media
+12352-Drug abuse (opioids)
+12353-Myelodysplastic syndrome
+12354-Fracture of the shoulder
+12355-Acute kidney injury
+12356-Threatened pregnancy
+12357-Intracranial abscess
+12358-Gum disease
+12359-Open wound from surgical incision
+12360-Gastrointestinal hemorrhage
+12361-Seborrheic dermatitis
+12362-Drug abuse (methamphetamine)
+12363-Torticollis
+12364-Poisoning due to antihypertensives
+12365-Tension headache
+12366-Alcohol intoxication
+12367-Scurvy
+12368-Narcolepsy
+12369-Primary kidney disease
+12370-Uterine cancer
+12371-Dry eye of unknown cause
+12372-Fibrocystic breast disease
+12373-Fungal infection of the hair
+12374-Tooth abscess
+12375-Leptospirosis
+12376-Envenomation from spider or animal bite
+12377-VACTERL syndrome
+12378-Vertebrobasilar insufficiency
+12379-Rectal disorder
+12380-Atonic bladder
+12381-Benign paroxysmal positional vertical (BPPV)
+12382-Blepharospasm
+12383-Sarcoidosis
+12384-Metastatic cancer
+12385-Trigger finger (finger disorder)
+12386-Stye
+12387-Hemochromatosis
+12388-Osteochondroma
+12389-Cushing syndrome
+12390-Typhoid fever
+12391-Vitreous degeneration
+12392-Atrophic skin condition
+12393-Aspergillosis
+12394-Uterine atony
+12395-Trichinosis
+12396-Whooping cough
+12397-Pick disease
+12398-Open wound of the lip
+12399-Subacute thyroiditis
+12400-Oral mucosal lesion
+12401-Open wound due to trauma
+12402-Intracerebral hemorrhage
+12403-Alzheimer disease
+12404-Vaginismus
+12405-Systemic lupus erythematosis (SLE)
+12406-Premature ovarian failure
+12407-Thoracic outlet syndrome
+12408-Ganglion cyst
+12409-Dislocation of the knee
+12410-Crohn disease
+12411-Postoperative infection
+12412-Folate deficiency
+12413-Fluid overload
+12414-Atrial flutter
+12415-Skin disorder
+12416-Floaters
+12417-Tooth disorder
+12418-Heart attack
+12419-Open wound of the abdomen
+12420-Fracture of the leg
+12421-Oral thrush (yeast infection)
+12422-Pityriasis rosea
+12423-Allergy to animals
+12424-Orthostatic hypotension
+12425-Obstructive sleep apnea (OSA)
+12426-Hypokalemia
+12427-Psoriasis
+12428-Dislocation of the shoulder
+12429-Intussusception
+12430-Cervicitis
+12431-Abscess of the pharynx
+12432-Primary thrombocythemia
+12433-Arthritis of the hip
+12434-Decubitus ulcer
+12435-Hypernatremia
+12436-Sensorineural hearing loss
+12437-Chronic ulcer
+12438-Osteoporosis
+12439-Ileus
+12440-Sickle cell crisis
+12441-Urethritis
+12442-Prostatitis
+12443-Otitis externa (swimmer's ear)
+12444-Poisoning due to anticonvulsants
+12445-Testicular torsion
+12446-Tricuspid valve disease
+12447-Urethral stricture
+12448-Vitamin D deficiency
+12449-Hydatidiform mole
+12450-Pain disorder affecting the neck
+12451-Tuberculosis
+12452-Pelvic fistula
+12453-Acute bronchiolitis
+12454-Presbyopia
+12455-Dementia
+12456-Insect bite
+12457-Paroxysmal ventricular tachycardia
+12458-Congenital heart defect
+12459-Connective tissue disorder
+12460-Foreign body in the eye
+12461-Poisoning due to gas
+12462-Pyogenic skin infection
+12463-Endometrial hyperplasia
+12464-Acanthosis nigricans
+12465-Central atherosclerosis
+12466-Viral exanthem
+12467-Blastomycosis
+12468-Noninfectious gastroenteritis
+12469-Benign prostatic hyperplasia (BPH)
+12470-Menopause
+12471-Primary immunodeficiency
+12472-Ovarian cancer
+12473-Cataract
+12474-Dislocation of the hip
+12475-Spinal stenosis
+12476-Intestinal obstruction
+12477-Heart contusion
+12478-Congenital malformation syndrome
+12479-Sporotrichosis
+12480-Lymphangitis
+12481-Wernicke Korsakoff syndrome
+12482-Intestinal disease
+12483-Acute bronchitis
+12484-Persistent vomiting of unknown cause
+12485-Open wound of the foot
+12486-Myocarditis
+12487-Preeclampsia
+12488-Ischemic heart disease
+12489-Neurofibromatosis
+12490-Chickenpox
+12491-Pancreatic cancer
+12492-Neuropathy due to drugs
+12493-Croup
+12494-Idiopathic excessive menstruation
+12495-Amblyopia
+12496-Meckel diverticulum
+12497-Dislocation of the wrist
+12498-Ear drum damage
+12499-Erectile dysfunction
+12500-Temporary or benign blood in urine
+12501-Kidney disease due to longstanding hypertension
+12502-Chondromalacia of the patella
+12503-Onychomycosis
+12504-Urethral disorder
+12505-Lyme disease
+12506-Iron deficiency anemia
+12507-Acute respiratory distress syndrome (ARDS)
+12508-Toxic multinodular goiter
+12509-Open wound of the finger
+12510-Autonomic nervous system disorder
+12511-Psychosexual disorder
+12512-Anemia
+12513-Tendinitis
+12514-Common cold
+12515-Amyotrophic lateral sclerosis (ALS)
+12516-Central retinal artery or vein occlusion
+12517-Paroxysmal supraventricular tachycardia
+12518-Venous insufficiency
+12519-Trichomonas infection
+12520-Acne
+12521-Depression
+12522-Drug abuse
+12523-Urinary tract obstruction
+12524-Diabetes insipidus
+12525-Iridocyclitis
+12526-Varicocele of the testicles
+12527-Irritable bowel syndrome
+12528-Fracture of the foot
+12529-Ovarian cyst
+12530-Chlamydia
+12531-Parasitic disease
+12532-Fracture of the jaw
+12533-Cytomegalovirus infection
+12534-Lipoma
+12535-Female genitalia infection
+12536-Pulmonary hypertension
+12537-Thyroid nodule
+12538-Broken tooth
+12539-Dumping syndrome
+12540-Lymphadenitis
+12541-Injury to the face
+12542-Aortic valve disease
+12543-Rheumatoid arthritis
+12544-Spermatocele
+12545-Impetigo
+12546-Anal fistula
+12547-Hypothermia
+12548-Oppositional disorder
+12549-Migraine
+12550-Diabetic peripheral neuropathy
+12551-Testicular disorder
+12552-Gestational diabetes
+12553-Hidradenitis suppurativa
+12554-Valley fever
+12555-Conjunctivitis due to bacteria
+12556-Lewy body dementia
+12557-Marfan syndrome
+12558-Multiple myeloma
+12559-Stomach cancer
+12560-Developmental disability
+12561-Acute stress reaction
+12562-Delirium
+12563-Callus
+12564-Guillain Barre syndrome
+12565-Lumbago
+12566-Deviated nasal septum
+12567-Hemangioma
+12568-Patau syndrome
+12569-Peripheral arterial disease
+12570-Chronic back pain
+12571-Heart failure
+12572-Conjunctivitis
+12573-Herniated disk
+12574-Rhabdomyolysis
+12575-Breast infection (mastitis)
+12576-Abdominal aortic aneurysm
+12577-Pulmonary embolism
+12578-Conduct disorder
+12579-Air embolism
+12580-Mastectomy
+12581-Epididymitis
+12582-Premature rupture of amniotic membrane
+12583-Molluscum contagiosum
+12584-Necrotizing fasciitis
+12585-Benign vaginal discharge (leukorrhea)
+12586-Bladder obstruction
+12587-Melanoma
+12588-Cervical disorder
+12589-Laryngitis
+12590-Dyshidrosis
+12591-Poisoning due to opioids
+12592-Diaper rash
+12593-Lichen planus
+12594-Gastroduodenal ulcer
+12595-Inguinal hernia
+12596-Eczema
+12597-Asperger syndrome
+12598-Mucositis
+12599-Paronychia
+12600-Open wound of the jaw
+12601-White blood cell disease
+12602-Kaposi sarcoma
+12603-Spondylolisthesis
+12604-Pseudotumor cerebri
+12605-Conjunctivitis due to virus
+12606-Open wound of the nose
+12607-Head injury
+12608-Ascending cholangitis
+12609-Idiopathic irregular menstrual cycle
+12610-Interstitial lung disease
+12611-Mononeuritis
+12612-Malaria
+12613-Somatization disorder
+12614-Hypovolemia
+12615-Schizophrenia
+12616-Knee ligament or meniscus tear
+12617-Endocarditis
+12618-Sepsis
+12619-Heat stroke
+12620-Cholecystitis
+12621-Cardiac arrest
+12622-Cardiomyopathy
+12623-Social phobia
+12624-Meningitis
+12625-Spherocytosis
+12626-Hormone disorder
+12627-Raynaud disease
+12628-Reactive arthritis
+12629-Scabies
+12630-Ear wax impaction
+12631-Hypertension of pregnancy
+12632-Peripheral arterial embolism
+12633-Rosacea
+12634-Fracture of the skull
+12635-Uveitis
+12636-Fracture of the facial bones
+12637-Tracheitis
+12638-Jaw disorder
+12639-Perirectal infection
+12640-Breast cyst
+12641-Post traumatic stress disorder (PTSD)
+12642-Kidney cancer
+12643-Vulvar cancer
+12644-Blepharitis
+12645-Celiac disease
+12646-Cystitis
+12647-Sickle cell anemia
+12648-Subconjunctival hemorrhage
+12649-Hemorrhoids
+12650-Contact dermatitis
+12651-Sinus bradycardia
+12652-High blood pressure
+12653-Pelvic inflammatory disease
+12654-Liver disease
+12655-Chronic constipation
+12656-Thyroid cancer
+12657-Flu
+12658-Friedrich ataxia
+12659-Tic (movement) disorder
+12660-Skin polyp
+12661-Brachial neuritis
+12662-Cervical cancer
+12663-Adrenal adenoma
+12664-Esophagitis
+12665-Gas gangrene
+12666-Yeast infection
+12667-Spina bifida
+12668-Drug poisoning due to medication
+12669-Alcoholic liver disease
+12670-Malignant hypertension
+12671-Diverticulitis
+12672-Moyamoya disease
+12673-Heat exhaustion
+12674-Psychotic disorder
+12675-Frostbite
+12676-Atrophy of the corpus cavernosum
+12677-Smoking or tobacco addiction
+12678-Sprain or strain
+12679-Essential tremor
+12680-Open wound of the ear
+12681-Foreign body in the nose
+12682-Idiopathic painful menstruation
+12683-Down syndrome
+12684-Idiopathic infrequent menstruation
+12685-Pneumothorax
+12686-De Quervain disease
+12687-Fracture of the vertebra
+12688-Human immunodeficiency virus infection (HIV)
+12689-Mumps
+12690-Subarachnoid hemorrhage
+12691-Acute fatty liver of pregnancy (AFLP)
+12692-Ectropion
+12693-Scar
+12694-Lactose intolerance
+12695-Eustachian tube dysfunction (ear disorder)
+12696-Appendicitis
+12697-Graves disease
+12698-Dissociative disorder
+12699-Open wound of the face
+12700-Dislocation of the vertebra
+12701-Phimosis
+12702-Hyperemesis gravidarum
+12703-Pregnancy
+12704-Thalassemia
+12705-Placenta previa
+12706-Epidural hemorrhage
+12707-Septic arthritis
+12708-Athlete's foot
+12709-Pleural effusion
+12710-Aphakia
+12711-Vulvar disorder
+12712-Vitamin B deficiency
+12713-Sialoadenitis
+12714-Gynecomastia
+12715-Urinary tract infection
+12716-Histoplasmosis
+12717-Erythema multiforme
+12718-Scoliosis
+12719-Bunion
+12720-Arrhythmia
+12721-Paget disease
+12722-Trigeminal neuralgia
+12723-Ankylosing spondylitis
+12724-Peripheral nerve disorder
+12725-Sebaceous cyst
+12726-Poisoning due to antipsychotics
+12727-Behcet disease
+12728-Neurosis
+12729-Prostate cancer
+12730-Cerebral edema
+12731-Dislocation of the finger
+12732-Birth trauma
+12733-Chronic pancreatitis
+12734-Hematoma
+12735-Carcinoid syndrome
+12736-Open wound of the head
+12737-Seborrheic keratosis
+12738-Burn
+12739-Spontaneous abortion
+12740-Genital herpes
+12741-Adjustment reaction
+12742-Gallstone
+12743-Multiple sclerosis
+12744-Zenker diverticulum
+12745-Fracture of the pelvis
+12746-Pneumoconiosis
+12747-Hyperlipidemia
+12748-Ulcerative colitis
+12749-Male genitalia infection
+12750-HPV
+12751-Angina
+12752-Injury to the spinal cord
+12753-Nasal polyp
+12754-Lichen simplex
+12755-Trichiasis
+12756-Acariasis
+12757-Colorectal cancer
+12758-Skin pigmentation disorder
+12759-Factitious disorder
+12760-Lymphogranuloma venereum
+12761-Galactorrhea of unknown cause
+12762-G6PD enzyme deficiency
+12763-Nerve impingement near the shoulder
+12764-Toxoplasmosis
+12765-Fibroadenoma
+12766-Open wound of the hand
+12767-Missed abortion
+12768-Diabetic ketoacidosis
+12769-Granuloma inguinale
+12770-Hemorrhagic fever
+12771-Obsessive compulsive disorder (OCD)
+12772-Injury of the ankle
+12773-Hyponatremia
+12774-Stricture of the esophagus
+12775-Fracture of the ankle
+12776-Soft tissue sarcoma
+12777-Bone disorder
+12778-Epilepsy
+12779-Personality disorder
+12780-Shingles (herpes zoster)
+12781-Tourette syndrome
+12782-Avascular necrosis
+12783-Strep throat
+12784-Spinocerebellar ataxia
+12785-Osteomyelitis
+12786-Sjogren syndrome
+12787-Adhesive capsulitis of the shoulder
+12788-Viral hepatitis
+12789-Tonsillar hypertrophy
+12790-Gastritis
+12791-Skin cancer
+12792-Rheumatic fever
+12793-Aphthous ulcer
+12794-Tonsillitis
+12795-Intestinal cancer
+12796-Rocky Mountain spotted fever

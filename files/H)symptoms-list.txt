@@ -1,0 +1,378 @@
+10074-Diaper Rash
+10080-Infant spitting up
+10082-Infant feeding problem
+10151-Symptoms of infants
+10227-Irritable infant
+10138-Irregular appearing scalp
+10267-Unwanted hair
+10276-Itchy scalp
+10285-Too little hair
+10291-Dry or flaky scalp
+10064-Eyelid lesion or rash
+10065-Pain in eye
+10066-Symptoms of eye
+10067-Diminished vision
+10069-Itchiness of eye
+10070-Abnormal movement of eyelid
+10086-Blindness
+10088-Spots or clouds in vision
+10090-Eyelid swelling
+10121-Cross eyed
+10122-Itchy eyelid
+10129-Lacrimation
+10134-Double vision
+10135-Eye moves abnormally
+10136-Foreign body sensation in eye
+10185-Eye redness
+10186-Eye burns or stings
+10232-Bleeding from eye
+10235-Eye strain
+10266-Swollen eye
+10269-Mass on eyelid
+10278-White discharge from eye
+10282-Flatulence-Pain in eye
+10315-Eye deviation
+10329-Eyelid retracted
+10331-Cloudy eye
+10354-Pupils unequal
+10298-Vulvar sore-Eye redness
+10126-Ear pain
+10180-Plugged feeling in ear
+10181-Itchy ear(s)
+10183-Fluid in ear
+10241-Abnormal size or shape of ear
+10250-Pulling at ears
+10252-Redness in ear
+10270-Pus draining from ear
+10271-Ringing in ear
+10345-Mass on ear
+10346-Bleeding from ear
+10031-Sinus congestion
+10130-Painful sinuses
+10215-Nasal congestion
+10261-Nosebleed
+10344-Redness in or around nose
+10357-Nose deformity
+10349-Sore in nose
+10032-Mouth pain
+10156-Mouth dryness
+10297-Mouth ulcer
+10310-Toothache
+10313-Mouth pain
+10343-Bleeding in mouth
+10198-Tongue lesions
+10200-Abnormal appearing tongue
+10342-Tongue pain
+10348-Swollen tongue
+10364-Tongue bleeding
+10251-Gum pain
+10314-Bleeding gums
+10337-Pain in gums
+10024-Sore throat
+10029-Throat swelling
+10132-Drainage in throat
+10155-Throat feels tight
+10279-Lump in throat
+10339-Throat redness
+10347-Throat irritation
+10055-Acne or pimples
+10105-Jaw swelling
+10114-Facial pain
+10189-Symptoms of the face
+10219-Pallor
+10226-Flushing
+10320-Jaw pain
+10352-Lump over jaw
+10284-Lip swelling
+10311-Dry lips
+10316-Lip sore
+10141-Neck pain
+10154-Neck mass
+10157-Neck swelling
+10184-Neck stiffness or tightness
+10323-Neck cramps or spasms
+10377-Skin on head or neck looks infected
+10236-Neck weakness
+10007-Itching of skin
+10026-Skin swelling
+10063-Skin growth
+10068-Wrinkles on skin
+10071-Skin rash
+10075-Abnormal appearing skin
+10079-Skin lesion
+10113-Skin on leg or foot looks infected
+10163-Skin moles
+10165-Jaundice
+10274-Skin on arm or hand looks infected
+10275-Skin irritation
+10287-Warts
+10292-Skin growth-Weight gain
+10334-Irregular belly button
+10340-Upper abdominal pain-Itching of skin
+10359-Skin oiliness
+10366-Change in skin mole size or color
+10374-Skin pain
+10034-Sharp chest pain
+10036-Chest tightness
+10216-Rib pain
+10238-Congestion in chest
+10255-Burning chest pain
+10033-Shortness of breath
+10035-Difficulty breathing
+10152-Wheezing
+10244-Abnormal breathing sounds
+10272-Hurts to breath
+10303-Breathing fast
+10140-Back pain
+10142-Low back pain
+10239-Back weakness
+10256-Back cramps or spasms
+10259-Low back cramps or spasms
+10260-Back mass or lump
+10289-Low back swelling
+10363-Posture problems
+10372-Back stiffness or tightness
+10375-Low back stiffness or tightness
+10098-Back swelling
+10100-Arm weakness
+10101-Arm stiffness or tightness
+10192-Arm pain
+10195-Arm cramps or spasms
+10237-Arm swelling
+10330-Arm lump or mass
+10103-Irregular appearing nails
+10162-Hand or finger pain
+10196-Hand or finger stiffness or tightness
+10217-Hand or finger swelling
+10220-Hand or finger lump or mass
+10327-Hand or finger weakness
+10371-Hand or finger cramps or spasms
+10193-Shoulder stiffness or tightness
+10194-Shoulder weakness
+10197-Shoulder swelling
+10202-Shoulder pain
+10228-Shoulder cramps or spasms
+10367-Shoulder lump or mass
+10073-Elbow cramps or spasms
+10109-Elbow pain
+10110-Elbow swelling
+10246-Elbow weakness
+10301-Elbow stiffness or tightness
+10333-Elbow lump or mass
+10104-Wrist pain
+10112-Wrist swelling
+10124-Wrist weakness
+10300-Wrist stiffness or tightness
+10373-Wrist lump or mass
+10038-Leg swelling
+10058-Leg pain
+10062-Leg weakness
+10199-Leg cramps or spasms
+10213-Leg stiffness or tightness
+10350-Leg lump or mass
+10061-Joint pain
+10106-Knee swelling
+10111-Knee stiffness or tightness
+10153-Peripheral edema
+10159-Bowlegged or knock kneed
+10160-Bones are painful
+10161-Knee weakness
+10164-Knee lump or mass
+10203-Knee pain
+10229-Joint stiffness or tightness
+10341-Joint swelling
+10361-Knee cramps or spasms
+10102-Foot or toe swelling
+10158-Foot or toe pain
+10281-Foot or toe cramps or spasms
+10286-Foot or toe lump or mass
+10295-Feet turned in
+10296-Foot or toe stiffness or tightness
+10369-Foot or toe weakness
+10107-Ankle pain
+10108-Ankle swelling
+10092-Ankle stiffness or tightness
+10016-Ankle weakness
+10037-Heartburn
+10094-Irregular heartbeat
+10096-Increased heart rate
+10178-Decreased heart rate
+10177-Palpitations
+10009-Coryza
+10125-Allergic reaction
+10139-Swollen lymph nodes
+10182-Hoarse voice
+10187-Feeling cold
+10127-Sneezing
+10253-Flu like syndrome
+10338-Swollen or red tonsils
+10025-Cough
+10081-Coughing up sputum
+10131-Hemoptysis
+10133-Smoking problems
+10240-Pus in sputum
+10001-Diarrhea
+10004-Vomiting
+10030-Difficulty in swallowing
+10116-Decreased appetite
+10117-Stomach bloating
+10147-Vomiting blood
+10148-Regurgitation
+10170-Difficulty eating
+10188-Excessive appetite
+10234-Constipation
+10306-Flatulence
+10143-Pain of the anus
+10204-Hip pain
+10233-Rectal bleeding
+10277-Hip swelling
+10288-Mass or swelling around the anus
+10290-Hip lump or mass
+10326-Hip stiffness or tightness
+10370-Itching of the anus
+10190-Hip weakness
+10076-Painful urination
+10089-Retention of urine
+10095-Frequent urination
+10097-Pus in urine
+10191-Blood in urine
+10209-Unusual color or odor to urine
+10231-Excessive urination at night
+10263-Involuntary urination
+10321-Bedwetting
+10368-Polyuria
+10376-Low urine output
+10028-Penis pain
+10078-Penile discharge
+10283-Bumps on penis
+10324-Penis redness
+10304-Swelling of scrotum
+10305-Pain in testicles
+10307-Mass in scrotum
+10317-Symptoms of the scrotum and testes
+10325-Itching of scrotum
+10021-Loss of sex drive
+10145-Impotence
+10176-Pain during intercourse
+10362-Premature ejaculation
+10365-Problems with orgasm
+10119-Lower abdominal pain
+10146-Sharp abdominal pain
+10149-Burning abdominal pain
+10207-Upper abdominal pain
+10211-Swollen abdomen
+10222-Abdominal distention
+10208-Changes in stool appearance
+10223-Blood in stool
+10225-Melena
+10280-Incontinence of stool
+10353-Discharge in stools
+10072-Muscle swelling
+10166-Muscle pain
+10218-Muscle stiffness or tightness
+10258-Muscle cramps contractures or spasms
+10335-Muscle weakness
+10005-Weight gain
+10167-Recent weight loss
+10169-Underweight
+10027-Groin pain
+10047-Pelvic pain
+10212-Symptoms of prostate
+10214-Groin mass
+10299-Pelvic pressure
+10077-Suprapubic pain
+10210-Kidney mass
+10224-Symptoms of the kidneys
+10268-Symptoms of bladder
+10360-Bladder mass
+10168-Problems with shape or size of breast
+10179-Bleeding or discharge from nipple
+10230-Pain or soreness of breast
+10328-Postpartum problems of the breast
+10355-Lump or mass of breast
+10040-Recent pregnancy
+10120-Problems during pregnancy
+10144-Pain during pregnancy
+10206-Spotting or bleeding during pregnancy
+10262-Infertility
+10172-Vaginal itching
+10173-Vaginal pain
+10174-Vaginal redness
+10248-Vaginal discharge
+10302-Early or late onset of menopause
+10309-Vaginal dryness
+10245-Vaginal bleeding after menopause
+10046-Unpredictable menstruation
+10048-Absence of menstruation
+10049-Heavy menstrual flow
+10050-Intermenstrual bleeding
+10051-Long menstrual periods
+10052-Painful menstruation
+10171-Scanty menstrual flow
+10249-Blood clots during menstrual periods
+10264-Frequent menstruation
+10293-Premenstrual tension or irritability
+10318-Infrequent menstruation
+10175-Vulvar irritation
+10319-Mass on vulva
+10322-Vulvar sore
+10118-Uterine contractions
+10013-Insomnia
+10242-Sleepiness
+10243-Apnea
+10358-Sleepwalking
+10043-Abnormal involuntary movements
+10059-Problems with movement
+10053-Cramps and spasms
+10201-Ache all over
+10205-Lower body pain
+10221-Side pain
+10257-Stiffness all over
+10000-Weakness
+10002-Fatigue
+10003-Dizziness
+10006-Chills
+10008-Feeling ill
+10017-Disturbance of memory
+10023-Fever
+10039-Fluid retention
+10054-Hot flashes
+10056-Loss of sensation
+10057-Seizures
+10060-Paresthesia
+10083-Lymphedema
+10087-Headache
+10091-Nausea
+10093-Fainting
+10115-Diminished hearing
+10128-Frontal headache
+10150-Restlessness
+10247-Feeling hot and cold
+10265-Sweating
+10294-Feeling hot
+10351-Disturbance of smell or taste
+10336-Thirst
+10356-Poor circulation
+10010-Emotional symptoms
+10011-Anxiety and nervousness
+10012-Depressive or psychotic symptoms
+10014-Excessive anger
+10015-Low self esteem
+10019-Fears and phobias
+10042-Depression
+10044-Delusions or hallucinations
+10084-Nightmares
+10018-Temper problems
+10022-Antisocial behavior
+10041-Abusing alcohol
+10045-Hostile behavior
+10085-Hysterical behavior
+10254-Drug abuse
+10273-Nailbiting
+10312-Obsessions and compulsions
+10332-Hesitancy
+10020-Slurring words
+10099-Difficulty speaking
+10308-Stuttering or stammering
+10123-Excessive growth
+10137-Lack of growth
