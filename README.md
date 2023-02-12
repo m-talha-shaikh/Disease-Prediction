@@ -9,12 +9,12 @@ Allows the user to
   2.Select symptoms associted with those body parts\
   3.Predict disease on basis of that\
   4.Prescribe a medicine (if possible)\
-  5.Give a brief description about the disease/disorder\
+  5.Give a brief description about the disease/disorder
 
-How to use the program\
+How to use the program
 
-1.Clone this repo in your local machine\
+1.Clone this repo in your local machine
 
-git clone https://github.com/m-talha-shaikh/Disease-Prediction-System.git \
+git clone https://github.com/m-talha-shaikh/Disease-Prediction-System.git 
 
-2.Compile and Run the mainCode.cpp file\
+2.Compile and Run the mainCode.cpp file
